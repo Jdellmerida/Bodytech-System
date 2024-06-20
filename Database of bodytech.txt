@@ -1,0 +1,54 @@
+The databse Field of Bodytech system
+
+
+
+
+THE USER ID
+
+M001
+M002
+₱
+
+Gymembership list database
+
+UID
+FirstName
+Middle Name
+Last Name
+Age
+Gender
+Address
+Contact No
+Birthdate
+Email
+Membership_Plan   (Month to month or 12 month)
+Membership_status (active or deactivated or expired)
+expiration  (Expiration date)
+Image (Photo of client)
+
+transaction history
+
+UID
+FirstName
+Middle Name
+Last name
+Membership Subscription (month to month or 12 month)
+AmountDue
+Payment
+Change
+Userstamp ( complete, pending or installment)
+Date
+
+
+
+
+
+
+
+
+
+
+
+
+
+

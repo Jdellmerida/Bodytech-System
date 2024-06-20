@@ -1,0 +1,1 @@
+DBCC CHECKIDENT (name of your table,RESEED,11)

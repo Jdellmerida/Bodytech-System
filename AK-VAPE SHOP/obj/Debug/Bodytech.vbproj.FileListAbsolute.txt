@@ -1,0 +1,282 @@
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\B.exe.config
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\B.exe
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\Guna.UI2.dll
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.vbproj.AssemblyReference.cache
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.About.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Dashboard.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Form1.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Form2.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Gymembers.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Login.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Resources.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Personal.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Register.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Settings.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.USERMANAGEMENT.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.vbproj.GenerateResource.cache
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.vbproj.CoreCompileInputs.cache
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.vbproj.Up2Date
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\B.exe
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\B.xml
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\B.pdb
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\B.pdb
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\B.xml
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Transaction.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.EDIT1.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.NEWMEMBERS.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.PAYMENT.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.ACCESS.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.RFIDGENEDIT.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.History.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.RENEW.resources
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\Microsoft.ReportViewer.Common.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\Microsoft.ReportViewer.Design.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\EnvDTE.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\stdole.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\Microsoft.MSXML.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Report.resources
+H:\vb\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.forgot.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\B.exe.config
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\B.exe
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\B.pdb
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\B.xml
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\Guna.UI2.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\EnvDTE.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\stdole.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.vbproj.AssemblyReference.cache
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.About.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.ACCESS.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Dashboard.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.EDIT1.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.forgot.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Form1.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Form2.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Gymembers.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.History.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Login.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Resources.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.NEWMEMBERS.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.PAYMENT.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Personal.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Register.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.RENEW.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Report.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.RFIDGENEDIT.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Settings.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.Transaction.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.USERMANAGEMENT.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.vbproj.GenerateResource.cache
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.vbproj.CoreCompileInputs.cache
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\Bodytech.vbproj.Up2Date
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\B.exe
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\B.xml
+C:\Users\crazy\OneDrive\Desktop\Bodytech\AK-VAPE SHOP\obj\Debug\B.pdb
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\B.exe.config
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\B.exe
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\B.pdb
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\B.xml
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\Guna.UI2.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\EnvDTE.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\stdole.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\Microsoft.MSXML.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.vbproj.AssemblyReference.cache
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.About.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.ACCESS.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.Dashboard.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.EDIT1.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.forgot.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.Form1.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.Form2.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.Gymembers.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.History.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.Login.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.Resources.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.NEWMEMBERS.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.PAYMENT.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.Personal.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.Register.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.RENEW.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.Report.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.RFIDGENEDIT.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.Settings.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.Transaction.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.USERMANAGEMENT.resources
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.vbproj.GenerateResource.cache
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.vbproj.CoreCompileInputs.cache
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\Bodytech.vbproj.Up2Date
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\B.exe
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\B.xml
+C:\Users\crazy\OneDrive\Desktop\Bodytech laptop\AK-VAPE SHOP\obj\Debug\B.pdb

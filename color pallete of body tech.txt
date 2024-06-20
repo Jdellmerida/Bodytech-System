@@ -1,0 +1,13 @@
+white theme
+
+8775fa  blue
+
+
+black theme
+
+
+112948   blue
+
+be1e2d  red
+
+6d6e70 grey 

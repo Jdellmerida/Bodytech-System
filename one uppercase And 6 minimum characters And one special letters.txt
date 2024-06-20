@@ -1,0 +1,35 @@
+ Dim a As String
+        Dim b As Boolean = False
+        Dim c As Char
+        Dim d As Integer
+
+
+        Dim password As String = TextBox2.Text
+        a = TextBox2.Text
+        If Char.IsUpper(password, 0) Then
+            If a.Length < 6 Then
+                MessageBox.Show("Password must be at least 6 characters long.")
+                TextBox2.Focus()
+
+            Else
+                For d = 0 To a.Length - 1
+                    c = a.Chars(d)
+                    If Not Char.IsLetterOrDigit(c) Then
+                        b = True
+                        Exit For
+                    End If
+                Next
+                If b Then
+
+
+                    MsgBox(" Succesfuly Login Created")
+
+
+                Else
+                    MsgBox("Your password must contain at least one special characters")
+
+                End If
+            End If
+        Else
+            MessageBox.Show("one capital letter")
+        End If

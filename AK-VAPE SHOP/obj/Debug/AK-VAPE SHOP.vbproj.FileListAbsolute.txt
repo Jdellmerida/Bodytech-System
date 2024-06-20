@@ -1,0 +1,60 @@
+C:\Users\Jdell\Desktop\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\bin\Debug\AK-VAPE SHOP.exe.config
+C:\Users\Jdell\Desktop\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\bin\Debug\AK-VAPE SHOP.exe
+C:\Users\Jdell\Desktop\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\bin\Debug\AK-VAPE SHOP.pdb
+C:\Users\Jdell\Desktop\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\bin\Debug\AK-VAPE SHOP.xml
+C:\Users\Jdell\Desktop\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE SHOP.vbproj.AssemblyReference.cache
+C:\Users\Jdell\Desktop\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE SHOP.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Jdell\Desktop\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Form1.resources
+C:\Users\Jdell\Desktop\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Resources.resources
+C:\Users\Jdell\Desktop\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE SHOP.vbproj.GenerateResource.cache
+C:\Users\Jdell\Desktop\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE SHOP.vbproj.CoreCompileInputs.cache
+C:\Users\Jdell\Desktop\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE SHOP.exe
+C:\Users\Jdell\Desktop\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE SHOP.xml
+C:\Users\Jdell\Desktop\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE SHOP.pdb
+C:\Users\Jdell\Desktop\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Login.resources
+C:\Users\Jdell\Desktop\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Dashboard.resources
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\bin\Debug\B.exe.config
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\bin\Debug\B.exe
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\bin\Debug\B.pdb
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\bin\Debug\B.xml
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE SHOP.vbproj.AssemblyReference.cache
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE SHOP.vbproj.SuggestedBindingRedirects.cache
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Dashboard.resources
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Form1.resources
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Login.resources
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Resources.resources
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE SHOP.vbproj.GenerateResource.cache
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE SHOP.vbproj.CoreCompileInputs.cache
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\B.exe
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\B.xml
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\B.pdb
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Form2.resources
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.USERMANAGEMENT.resources
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Register.resources
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Settings.resources
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.About.resources
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\bin\Debug\Guna.UI2.dll
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE SHOP.vbproj.CopyComplete
+D:\jdell activities\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Personal.resources
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\bin\Debug\B.exe.config
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\bin\Debug\B.exe
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\bin\Debug\B.pdb
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\bin\Debug\B.xml
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\bin\Debug\Guna.UI2.dll
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE SHOP.vbproj.AssemblyReference.cache
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.About.resources
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Dashboard.resources
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Form1.resources
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Form2.resources
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Login.resources
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Resources.resources
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Personal.resources
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Register.resources
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.Settings.resources
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK_VAPE_SHOP.USERMANAGEMENT.resources
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE SHOP.vbproj.GenerateResource.cache
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE SHOP.vbproj.CoreCompileInputs.cache
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\AK-VAPE .218DA9E7.Up2Date
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\B.exe
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\B.xml
+H:\vb\AK-VAPE SHOP\AK-VAPE SHOP\obj\Debug\B.pdb

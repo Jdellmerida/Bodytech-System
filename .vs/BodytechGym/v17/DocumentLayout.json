@@ -1,0 +1,715 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|c:\\users\\crazy\\onedrive\\desktop\\bodytech laptop\\ak-vape shop\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\usermanagement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\usermanagement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\usermanagement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\usermanagement.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\personal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\personal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\dashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\history.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\history.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Bodytech||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\gymembers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\gymembers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\gymembers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\gymembers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\personal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\personal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\access.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\access.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\access.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\access.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\welcome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\welcome.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\rfidgenedit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\rfidgenedit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\history.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\history.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\class3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\class3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\report.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\report.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\newmembers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\newmembers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\newmembers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\newmembers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\settings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_784ST9C_MERIDA/Bodytech/True/SqlTable/dbo.GYMEMBERSHIP.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\edit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\edit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\renew.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\renew.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\renew.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\renew.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\edit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\edit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\rfidgenedit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\rfidgenedit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\access.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\access.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\ak-vape shop\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C3A6AD78-E418-4958-AE66-F443DC5AB6E2}|AK-VAPE SHOP\\Bodytech.vbproj|solutionrelative:ak-vape shop\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 161,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 208,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EDIT.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\EDIT.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\EDIT.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\EDIT.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\EDIT.vb",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAvwGYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-27T01:29:15.586Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bodytech",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Bodytech.vbproj",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Bodytech.vbproj",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Bodytech.vbproj",
+              "RelativeToolTip": "AK-VAPE SHOP\\Bodytech.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-08T03:02:25.883Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "History.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\History.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\History.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\History.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\History.vb",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-01T02:30:03.173Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Dashboard.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Dashboard.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Dashboard.vb [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\Dashboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T12:18:53.935Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Transaction.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Transaction.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Transaction.vb [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\Transaction.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T02:26:22.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transaction.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Transaction.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Transaction.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Transaction.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\Transaction.vb",
+              "ViewState": "AQIAALoAAAAAAAAAAAAkwMgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-12T10:20:38.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "USERMANAGEMENT.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\USERMANAGEMENT.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\USERMANAGEMENT.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\USERMANAGEMENT.vb [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\USERMANAGEMENT.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T02:00:45.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "USERMANAGEMENT.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\USERMANAGEMENT.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\USERMANAGEMENT.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\USERMANAGEMENT.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\USERMANAGEMENT.vb",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-02T09:53:06.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Login.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Login.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Login.vb [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T12:18:56.577Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Dashboard.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Dashboard.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Dashboard.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\Dashboard.vb",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwDcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T02:16:16.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gymembers.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Gymembers.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Gymembers.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Gymembers.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\Gymembers.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-19T02:52:44.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Gymembers.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Gymembers.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Gymembers.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Gymembers.vb [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\Gymembers.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T02:15:27.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Personal.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Personal.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Personal.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Personal.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\Personal.vb",
+              "ViewState": "AQIAADgAAAAAAAAAAAAuwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-02T10:28:06.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Form1.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Form1.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Form1.vb [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-26T11:54:02.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Register.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Register.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Register.vb [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\Register.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-26T12:00:46.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Personal.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Personal.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Personal.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Personal.vb [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\Personal.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-19T02:52:38.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PAYMENT.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\PAYMENT.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\PAYMENT.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\PAYMENT.vb [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\PAYMENT.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T04:22:53.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "History.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\History.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\History.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\History.vb [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\History.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-01T02:15:45.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "welcome.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\welcome.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\welcome.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\welcome.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\welcome.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-12T09:45:19.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ACCESS.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\ACCESS.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\ACCESS.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\ACCESS.vb [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\ACCESS.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-12T09:45:23.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ACCESS.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\ACCESS.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\ACCESS.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\ACCESS.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\ACCESS.vb",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAswBMBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-12T09:45:25.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RFIDGENEDIT.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\RFIDGENEDIT.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\RFIDGENEDIT.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\RFIDGENEDIT.vb [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\RFIDGENEDIT.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-27T02:00:28.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class3.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Class3.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Class3.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Class3.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\Class3.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-12T09:45:12.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Form2.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Form2.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Form2.vb [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-05T12:35:16.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Login.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Login.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Login.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\Login.vb",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAkwLoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T12:18:57.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Report.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Report.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Report.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Report.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\Report.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T02:13:53.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Report.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Report.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Report.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Report.vb [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\Report.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T02:01:53.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Report.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Report.rdlc",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Report.rdlc",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Report.rdlc [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\Report.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-05-18T02:00:36.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PAYMENT.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\PAYMENT.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\PAYMENT.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\PAYMENT.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\PAYMENT.vb",
+              "ViewState": "AQIAADEBAAAAAAAAAAAswEUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-19T02:52:18.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NEWMEMBERS.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\NEWMEMBERS.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\NEWMEMBERS.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\NEWMEMBERS.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\NEWMEMBERS.vb",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAwFsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-09T10:13:01.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NEWMEMBERS.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\NEWMEMBERS.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\NEWMEMBERS.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\NEWMEMBERS.vb [Design]",
+              "RelativeToolTip": "AK-VAPE SHOP\\NEWMEMBERS.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T04:41:45.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Settings.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Settings.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Settings.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech\\AK-VAPE SHOP\\Settings.vb [Design]",
+              "RelativeToolTip": "..\\Bodytech\\AK-VAPE SHOP\\Settings.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T12:18:18.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Settings.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Settings.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Settings.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Settings.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\Settings.vb",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwFwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T12:18:19.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\DataSet1.xsd",
+              "RelativeToolTip": "AK-VAPE SHOP\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-18T02:45:24.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CONNECTION.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\CONNECTION.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\CONNECTION.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\CONNECTION.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\CONNECTION.vb",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-05T11:21:05.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\packages.config",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\packages.config",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\packages.config",
+              "RelativeToolTip": "AK-VAPE SHOP\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-19T03:02:18.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dbo.GYMEMBERSHIP [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_784ST9C_MERIDA/Bodytech/True/SqlTable/dbo.GYMEMBERSHIP.sql",
+              "ToolTip": "dbo.GYMEMBERSHIP [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-19T02:54:13.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EDIT.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\EDIT.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\EDIT.vb",
+              "ToolTip": "H:\\vb\\Bodytech\\AK-VAPE SHOP\\EDIT.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-18T04:58:40.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RENEW.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\RENEW.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\RENEW.vb",
+              "ToolTip": "H:\\vb\\Bodytech\\AK-VAPE SHOP\\RENEW.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T11:34:36.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RENEW.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\RENEW.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\RENEW.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\RENEW.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\RENEW.vb",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwFQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-11T06:01:52.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RFIDGENEDIT.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\RFIDGENEDIT.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\RFIDGENEDIT.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\RFIDGENEDIT.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\RFIDGENEDIT.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-27T02:08:07.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "About.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\About.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\About.vb",
+              "ToolTip": "H:\\vb\\Bodytech\\AK-VAPE SHOP\\About.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-24T12:18:13.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ACCESS.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\ACCESS.Designer.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\ACCESS.Designer.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\ACCESS.Designer.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\ACCESS.Designer.vb",
+              "ViewState": "AQIAANwDAAAAAAAAAAApwO8DAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-01T11:51:32.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\App.config",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\App.config",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\App.config",
+              "RelativeToolTip": "AK-VAPE SHOP\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-01T03:30:24.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Form1.vb",
+              "RelativeDocumentMoniker": "AK-VAPE SHOP\\Form1.vb",
+              "ToolTip": "C:\\Users\\crazy\\OneDrive\\Desktop\\Bodytech laptop\\AK-VAPE SHOP\\Form1.vb",
+              "RelativeToolTip": "AK-VAPE SHOP\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-27T04:44:21.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
